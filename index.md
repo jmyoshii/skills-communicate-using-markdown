@@ -21,3 +21,7 @@ You know what this is...
 ###### This is an h6 header
 
 And a final bit of text to finish adding headers to this file.
+
+Now add an image.  Here is Yaktocat:
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
