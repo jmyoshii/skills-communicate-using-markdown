@@ -27,3 +27,18 @@ Add an image of Yaktocat:
 
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+# Now add some code blocks
+
+The first example from the instructions:
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+And the javascript example:
+
+``` javascript
+var myVar = "Hello, world!";
+```
