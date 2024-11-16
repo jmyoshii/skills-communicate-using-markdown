@@ -22,6 +22,8 @@ You know what this is...
 
 And a final bit of text to finish adding headers to this file.
 
+
 Add an image of Yaktocat:
+
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
