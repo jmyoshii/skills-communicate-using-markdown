@@ -51,3 +51,7 @@ var myVar = "Hello, world!";
 - [x] Birthday present for Aphrodite
 - [ ] Slay the Minotaur
 - [ ] Lunch with Apollo
+
+Oops, I guess I wasn't supposed to be making pull requests and merging from start-markdown into main at each step.
+
+So I'll make an extra change here, commit, set up a new pull request, and merge.  Hopefully that satisfies the requirements.
