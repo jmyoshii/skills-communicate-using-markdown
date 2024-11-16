@@ -42,3 +42,12 @@ And the javascript example:
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+# Try adding a task list
+
+- [x] Clean stables
+- [ ] Kill the gorgon Medusa
+- [ ] Coffee with Chiron
+- [x] Birthday present for Aphrodite
+- [ ] Slay the Minotaur
+- [ ] Lunch with Apollo
